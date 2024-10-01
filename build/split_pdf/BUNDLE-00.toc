@@ -1,0 +1,3 @@
+([('split_pdf',
+   '/Users/annisssimo/Desktop/split-pdf/dist/split_pdf',
+   'EXECUTABLE')],)
